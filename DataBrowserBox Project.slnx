@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataBrowserBox.Demo/DataBrowserBox.Demo.csproj" Id="27a753ef-4032-4901-a3cf-4ba618d4d37a" />
+  <Project Path="DataBrowserBox.Lib/DataBrowserBox.Lib.csproj" />
+</Solution>

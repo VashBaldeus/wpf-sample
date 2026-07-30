@@ -22,3 +22,29 @@ C:\Users\xcast\Desktop\HomeAssignment_AlexBurlakov\DataBrowserBox Project\DataBr
 C:\Users\xcast\Desktop\HomeAssignment_AlexBurlakov\DataBrowserBox Project\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Lib.pdb
 C:\Users\xcast\Desktop\HomeAssignment_AlexBurlakov\DataBrowserBox Project\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.csproj.AssemblyReference.cache
 C:\Users\xcast\Desktop\HomeAssignment_AlexBurlakov\DataBrowserBox Project\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrow.9036F6C1.Up2Date
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Demo.exe
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Demo.deps.json
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Demo.runtimeconfig.json
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Demo.dll
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Demo.pdb
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Lib.dll
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\bin\Debug\net8.0-windows\DataBrowserBox.Lib.pdb
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.csproj.AssemblyReference.cache
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo_MarkupCompile.cache
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo_MarkupCompile.lref
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.g.resources
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.AssemblyInfoInputs.cache
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.AssemblyInfo.cs
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.csproj.CoreCompileInputs.cache
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.sourcelink.json
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrow.9036F6C1.Up2Date
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.dll
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\refint\DataBrowserBox.Demo.dll
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.pdb
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\DataBrowserBox.Demo.genruntimeconfig.cache
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Demo\obj\Debug\net8.0-windows\ref\DataBrowserBox.Demo.dll

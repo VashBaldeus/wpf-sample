@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xcast\\Desktop\\HomeAssignment_AlexBurlakov\\DataBrowserBox Project\\DataBrowserBox.Lib\\DataBrowserBox.Lib.csproj",
+      "projectUniqueName": "C:\\Users\\xcast\\source\\repos\\wpf-sample2\\DataBrowserBox.Lib\\DataBrowserBox.Lib.csproj",
       "projectName": "DataBrowserBox.Lib",
-      "projectPath": "C:\\Users\\xcast\\Desktop\\HomeAssignment_AlexBurlakov\\DataBrowserBox Project\\DataBrowserBox.Lib\\DataBrowserBox.Lib.csproj",
+      "projectPath": "C:\\Users\\xcast\\source\\repos\\wpf-sample2\\DataBrowserBox.Lib\\DataBrowserBox.Lib.csproj",
       "packagesPath": "C:\\Users\\xcast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xcast\\Desktop\\HomeAssignment_AlexBurlakov\\DataBrowserBox Project\\DataBrowserBox.Lib\\obj\\",
+      "outputPath": "C:\\Users\\xcast\\source\\repos\\wpf-sample2\\DataBrowserBox.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,10 +5,16 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DataBrowserBox.Demo"
+        xmlns:viewmodels="clr-namespace:DataBrowserBox.Demo.ViewModels"
         xmlns:lib="clr-namespace:DataBrowserBox.Lib;assembly=DataBrowserBox.Lib"
         xmlns:models="clr-namespace:DataBrowserBox.Lib.Models;assembly=DataBrowserBox.Lib"
         mc:Ignorable="d"
         Title="DataBrowserBox Control Demo" Height="450" Width="800">
+
+    <Window.DataContext>
+        <viewmodels:MainViewModel />
+    </Window.DataContext>
+
     <StackPanel>
         <GroupBox Header="Example 1: Auto-generated Columns" Margin="5">
             <lib:DataBrowserBox ItemsSource="{Binding Products}" Margin="5"

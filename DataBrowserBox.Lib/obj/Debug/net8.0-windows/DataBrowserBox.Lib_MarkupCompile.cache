@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\xcast\Desktop\HomeAssignment_AlexBurlakov\DataBrowserBox Project\DataBrowserBox.Lib\obj\Debug\net8.0-windows\
+C:\Users\xcast\source\repos\wpf-sample2\DataBrowserBox.Lib\obj\Debug\net8.0-windows\
 DataBrowserBox.Lib
 none
 false
@@ -16,5 +16,5 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 198-1831388575
 DataBrowserBox.xaml;DataBrowserDialog.xaml;
 
-True
+False
 
